@@ -30,8 +30,8 @@ class loginCest
       $I-> see('Retry Login');
     }
 
-    public function loginWithInValidCredentials(AcceptanceTester $I)
-    {
+    // public function loginWithInValidCredentials(AcceptanceTester $I)
+    // {
 
-    }
+    // }
 }
